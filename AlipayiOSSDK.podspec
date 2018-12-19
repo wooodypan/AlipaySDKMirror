@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                  = 'AlipayiOSSDK'
-  s.version               = '15.5.7'
+  s.version               = '15.5.71'
   s.summary               = 'A Mirror For AlipaySDK'
   s.homepage              = 'https://github.com/wooodypan/AlipaySDKMirror'
   s.ios.deployment_target = '8.0'
