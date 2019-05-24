@@ -5,5 +5,5 @@
 
 ## 使用方法
 ``` sh
-pod 'PWiOSTool/AlipaySDK',:git => 'https://github.com/wooodypan/AlipaySDKMirror.git'
+pod 'AlipayiOSSDK',:git => 'https://github.com/wooodypan/AlipaySDKMirror.git'
 ```
